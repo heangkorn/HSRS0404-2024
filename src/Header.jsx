@@ -4,6 +4,7 @@ return(
   <nav className='container'> 
   <img src={logo} alt="logo" className='logo'/>
   <ul>
+    <p> Hello </p>
       <li>Home</li>
       <li>Service</li>
       <li>About</li>
